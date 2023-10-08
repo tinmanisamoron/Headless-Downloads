@@ -3,7 +3,7 @@
 - Quick warning: Most of these cheats are VAC detected
 - Some of these cheats are broken and are left here so you can use them in older builds of tf2
 - Do not use these on your main account (Should be common knowledge by now)\
-- [Nitro V1 leak](https://www.mediafire.com/file/2m694wfjnyjlwmb/v1.dll/file)(tf2)doesn't work anymore.
+- [Nitro V1 leak](https://www.mediafire.com/file/2m694wfjnyjlwmb/v1.dll/file)(tf2) doesn't work anymore.
 - [Nullcore Crack](https://cdn.discordapp.com/attachments/874303640469393479/889460095849742366/nullcore.dll) (tf2) Acording to the old comment this was broken. Can't test, Won't test. Test yourself.
 - [Chams.cc crack](https://cdn.discordapp.com/attachments/874303640469393479/889460175369555988/chamscc.dll) (tf2) Broken.
 - [GameOwner](https://cdn.discordapp.com/attachments/874303640469393479/889460436540481576/GameOwner.exe) (injector) text based injector. Don't use for multiple processes. Use Xenos instead
